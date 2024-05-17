@@ -1,4 +1,4 @@
- 🎟️Bus Ticket Booking Application using Java Swing
+🎟️Bus Ticket Booking Application using Java Swing
 
 Overview
 I am pleased to present a comprehensive bus ticket booking application developed using Java Swing. This application provides a seamless and user-friendly interface for booking bus tickets.It integrates with a MySQL database to manage bus seats reservation status , buses availability and passenger details dynamically.
